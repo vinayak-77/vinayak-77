@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/vinayak_arora7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayak_arora7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinayak-arora-325bb0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak-arora-325bb0229" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vinayak270603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vinayak270603" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vinayak27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vinayak270603" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vinayak270603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayak270603" height="30" width="40" /></a>
 </p>
 
